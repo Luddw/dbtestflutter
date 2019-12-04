@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80447883252",
+    "firebase_url": "https://dbludlin.firebaseio.com",
+    "project_id": "dbludlin",
+    "storage_bucket": "dbludlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80447883252:android:d44d4e3a47eeae90161ba1",
+        "android_client_info": {
+          "package_name": "com.example.dbtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80447883252-8udrbgk59fcri456nfcm6ni78852a0hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOECLWT5l9IlRIhfbFu1JkiqFkDhn5F9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80447883252-8udrbgk59fcri456nfcm6ni78852a0hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
